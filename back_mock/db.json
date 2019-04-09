@@ -1,0 +1,13 @@
+{
+  "users": [{
+    "id": 1,
+    "name": "Márcio Heleno",
+    "email": "marcio@email.com",
+    "password" : "123456"
+  },{
+    "id": 2,
+    "name": "Levi Pessoa",
+    "email": "levi@email.com",
+    "password": "654321"
+  }]
+}
