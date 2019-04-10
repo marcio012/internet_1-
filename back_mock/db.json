@@ -1,13 +1,31 @@
 {
-  "users": [{
-    "id": 1,
-    "name": "Márcio Heleno",
-    "email": "marcio@email.com",
-    "password" : "123456"
-  },{
-    "id": 2,
-    "name": "Levi Pessoa",
-    "email": "levi@email.com",
-    "password": "654321"
-  }]
+  "users": [
+    {
+      "id": 1,
+      "name": "Márcio Heleno",
+      "email": "marcio@email.com",
+      "password": "123456"
+    },
+    {
+      "id": 2,
+      "name": "Levi Pessoa",
+      "email": "levi@email.com",
+      "password": "654321"
+    }
+  ],
+
+  "twitter": [
+    {
+      "id": 1,
+      "titulo": "Primeiro Twitter",
+      "conteudo": "Bla Bla Bla",
+      "userID": 1
+    },
+    {
+      "id": 2,
+      "titulo": "Primeiro Twitter",
+      "conteudo": "Bla Bla Bla",
+      "userID": 2
+    }
+  ]
 }
