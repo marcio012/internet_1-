@@ -1,8 +1,6 @@
 import React, { Fragment } from 'react'
-import Main from '../../template/Main'
-import Login from '../Login/Login'
 import Header from '../../template/Header'
-import {Avatar, Button, CssBaseline} from '@material-ui/core'
+import {Avatar, CssBaseline} from '@material-ui/core'
 import Grid from '@material-ui/core/Grid'
 
 
@@ -38,11 +36,7 @@ export default props =>
 
 
                 }}
-                // ultraLarge
-                // bordered
-                // src={
-                //   'https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwj7tozji8jhAhWJhOAKHd8RChAQjRx6BAgBEAU&url=https%3A%2F%2Frevistagalileu.globo.com%2FCultura%2Fnoticia%2F2019%2F03%2Fvingadores-teoria-afirma-que-thanos-poderia-morrer-pelo-anus-entenda.html&psig=AOvVaw0AOWJpMdHbT9suHCFR4DMT&ust=1555073858901849'
-                // }
+
 
               />
             </div>
