@@ -9,11 +9,11 @@ export default props =>
   <Fragment>
     <CssBaseline/>
     <Header/>
-    <div style={{maxWidth: '1000px', backgroundColor: '#ccc', margin: 'auto'}}>
+    <div style={{ 'height' : '1000px', padding: '1em' }}>
       <Grid container spacing={2}>
         <Grid item xs={12} md={8}>
           <div style={{backgroundColor: '#fff'}}>
-            <div style={{height: '200px', backgroundColor: '#ccd6dd'}}/>
+            <div style={{height: '200px', marginTop: '10px', backgroundColor: '#D4E0E0'}}/>
 
             <div
               style={{

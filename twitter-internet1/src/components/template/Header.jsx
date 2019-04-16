@@ -8,7 +8,7 @@ import InputAdornment from '@material-ui/core/es/InputAdornment/InputAdornment'
 export default porps =>
   <AppBar position='sticky' >
 
-    <Toolbar style={{width: '950px', margin: 'auto'}}>
+    <Toolbar>
       <Grid container alignItems='center' spacing={2} >
         <Grid item xs={6} sm={4}>
           <Tabs value={0} variant='fullWidth'>
